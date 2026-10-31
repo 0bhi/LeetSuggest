@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LeetSuggest
 
-## Getting Started
+A daily LeetCode plan built from Striver's SDE sheet, balanced across topics and scheduled with
+spaced repetition. Accounts and progress are stored in [Neon](https://neon.tech) Postgres, so the
+app is ready for multi-user deployment on Vercel.
 
-First, run the development server:
+## Local development
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Create a Neon project and copy its **pooled** connection string.
+2. Create `.env.local` from the example and set `DATABASE_URL`:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   cp .env.example .env.local
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Install dependencies and start the app:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   ```bash
+   npm install
+   npm run dev
+   ```
 
-## Learn More
+Open [http://localhost:3000](http://localhost:3000), create an account, and finish onboarding.
 
-To learn more about Next.js, take a look at the following resources:
+The schema is created automatically on the first database request. No manual migration step is
+required.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploying to Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Push this repository to GitHub and import it in Vercel.
+2. Add a Neon database from the Vercel Marketplace, or add a `DATABASE_URL` environment variable
+   with your Neon pooled connection string.
+3. Deploy. The serverless Neon driver runs over HTTP, so no extra connection-pool configuration is
+   needed.
 
-## Deploy on Vercel
+The same `DATABASE_URL` should be present for Production, Preview, and Development environments if
+you want preview deployments to share the database.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Scripts
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Command           | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| `npm run dev`     | Start the development server                     |
+| `npm run build`   | Production build                                 |
+| `npm run lint`    | Run ESLint                                       |
+| `npm run typecheck` | Run TypeScript checks                          |
+| `npm test`        | Run unit and PGlite-backed database integration tests |
+| `npm run seed`    | Rebuild the local problem seed JSON from source  |
+
+## Stack
+
+- Next.js 16 App Router with Server Actions
+- Neon Postgres via `@neondatabase/serverless`
+- Email/password auth with scrypt hashing and database-backed sessions
+- Tailwind CSS 4

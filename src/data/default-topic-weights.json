@@ -1,0 +1,19 @@
+{
+  "arrays": 9.1,
+  "two-pointers": 10.8,
+  "binary-search": 5.1,
+  "hashing": 8.9,
+  "linked-list": 3.5,
+  "stacks-queues": 7.4,
+  "recursion-backtracking": 5.6,
+  "greedy": 3.4,
+  "heaps": 6.9,
+  "binary-trees": 9.5,
+  "bst": 2,
+  "graphs": 2.7,
+  "dynamic-programming": 14,
+  "tries": 2,
+  "strings": 3.6,
+  "bit-manipulation": 2,
+  "math": 3.6
+}

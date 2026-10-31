@@ -1,0 +1,7601 @@
+[
+  {
+    "id": "cache-with-time-limit",
+    "slug": "cache-with-time-limit",
+    "title": "Cache With Time Limit",
+    "url": "https://leetcode.com/problems/cache-with-time-limit/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "merge-intervals",
+    "slug": "merge-intervals",
+    "title": "Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 91.3
+  },
+  {
+    "id": "tenth-line",
+    "slug": "tenth-line",
+    "title": "Tenth Line",
+    "url": "https://leetcode.com/problems/tenth-line/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Shell"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "spiral-matrix",
+    "slug": "spiral-matrix",
+    "title": "Spiral Matrix",
+    "url": "https://leetcode.com/problems/spiral-matrix/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 68.1
+  },
+  {
+    "id": "diagonal-traverse",
+    "slug": "diagonal-traverse",
+    "title": "Diagonal Traverse",
+    "url": "https://leetcode.com/problems/diagonal-traverse/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 67.4
+  },
+  {
+    "id": "find-the-width-of-columns-of-a-grid",
+    "slug": "find-the-width-of-columns-of-a-grid",
+    "title": "Find the Width of Columns of a Grid",
+    "url": "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian"
+    ],
+    "frequency": 66.9
+  },
+  {
+    "id": "create-hello-world-function",
+    "slug": "create-hello-world-function",
+    "title": "Create Hello World Function",
+    "url": "https://leetcode.com/problems/create-hello-world-function/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 66.3
+  },
+  {
+    "id": "the-earliest-moment-when-everyone-become-friends",
+    "slug": "the-earliest-moment-when-everyone-become-friends",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "url": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Union-Find",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Uber"
+    ],
+    "frequency": 65.9
+  },
+  {
+    "id": "recyclable-and-low-fat-products",
+    "slug": "recyclable-and-low-fat-products",
+    "title": "Recyclable and Low Fat Products",
+    "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Database"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 63.8
+  },
+  {
+    "id": "concatenation-of-array",
+    "slug": "concatenation-of-array",
+    "title": "Concatenation of Array",
+    "url": "https://leetcode.com/problems/concatenation-of-array/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 61.4
+  },
+  {
+    "id": "make-lexicographically-smallest-array-by-swapping-elements",
+    "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Union-Find",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "combine-two-tables",
+    "slug": "combine-two-tables",
+    "title": "Combine Two Tables",
+    "url": "https://leetcode.com/problems/combine-two-tables/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Database"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 57.3
+  },
+  {
+    "id": "max-consecutive-ones",
+    "slug": "max-consecutive-ones",
+    "title": "Max Consecutive Ones",
+    "url": "https://leetcode.com/problems/max-consecutive-ones/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 56.2
+  },
+  {
+    "id": "game-of-life",
+    "slug": "game-of-life",
+    "title": "Game of Life",
+    "url": "https://leetcode.com/problems/game-of-life/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "second-highest-salary",
+    "slug": "second-highest-salary",
+    "title": "Second Highest Salary",
+    "url": "https://leetcode.com/problems/second-highest-salary/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Database"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "missing-ranges",
+    "slug": "missing-ranges",
+    "title": "Missing Ranges",
+    "url": "https://leetcode.com/problems/missing-ranges/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta"
+    ],
+    "frequency": 54.6
+  },
+  {
+    "id": "trips-and-users",
+    "slug": "trips-and-users",
+    "title": "Trips and Users",
+    "url": "https://leetcode.com/problems/trips-and-users/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Database"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 52.4
+  },
+  {
+    "id": "toeplitz-matrix",
+    "slug": "toeplitz-matrix",
+    "title": "Toeplitz Matrix",
+    "url": "https://leetcode.com/problems/toeplitz-matrix/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "arrays",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 51.5
+  },
+  {
+    "id": "valid-word-abbreviation",
+    "slug": "valid-word-abbreviation",
+    "title": "Valid Word Abbreviation",
+    "url": "https://leetcode.com/problems/valid-word-abbreviation/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 96.9
+  },
+  {
+    "id": "valid-palindrome-ii",
+    "slug": "valid-palindrome-ii",
+    "title": "Valid Palindrome II",
+    "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 95.7
+  },
+  {
+    "id": "squares-of-a-sorted-array",
+    "slug": "squares-of-a-sorted-array",
+    "title": "Squares of a Sorted Array",
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 88.5
+  },
+  {
+    "id": "container-with-most-water",
+    "slug": "container-with-most-water",
+    "title": "Container With Most Water",
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 84.6
+  },
+  {
+    "id": "valid-palindrome",
+    "slug": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 83.8
+  },
+  {
+    "id": "count-subarrays-where-max-element-appears-at-least-k-times",
+    "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+    "title": "Count Subarrays Where Max Element Appears at Least K Times",
+    "url": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "merge-operations-to-turn-array-into-a-palindrome",
+    "slug": "merge-operations-to-turn-array-into-a-palindrome",
+    "title": "Merge Operations to Turn Array Into a Palindrome",
+    "url": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "number-of-subarrays-with-bounded-maximum",
+    "slug": "number-of-subarrays-with-bounded-maximum",
+    "title": "Number of Subarrays with Bounded Maximum",
+    "url": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Uber"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "rotate-array",
+    "slug": "rotate-array",
+    "title": "Rotate Array",
+    "url": "https://leetcode.com/problems/rotate-array/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 77.7
+  },
+  {
+    "id": "fruit-into-baskets",
+    "slug": "fruit-into-baskets",
+    "title": "Fruit Into Baskets",
+    "url": "https://leetcode.com/problems/fruit-into-baskets/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 74.4
+  },
+  {
+    "id": "interval-list-intersections",
+    "slug": "interval-list-intersections",
+    "title": "Interval List Intersections",
+    "url": "https://leetcode.com/problems/interval-list-intersections/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Sweep Line"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 73.5
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "title": "Remove Duplicates from Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 72
+  },
+  {
+    "id": "contains-duplicate-ii",
+    "slug": "contains-duplicate-ii",
+    "title": "Contains Duplicate II",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 69.4
+  },
+  {
+    "id": "subarray-product-less-than-k",
+    "slug": "subarray-product-less-than-k",
+    "title": "Subarray Product Less Than K",
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 68.1
+  },
+  {
+    "id": "merge-strings-alternately",
+    "slug": "merge-strings-alternately",
+    "title": "Merge Strings Alternately",
+    "url": "https://leetcode.com/problems/merge-strings-alternately/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 67
+  },
+  {
+    "id": "move-zeroes",
+    "slug": "move-zeroes",
+    "title": "Move Zeroes",
+    "url": "https://leetcode.com/problems/move-zeroes/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 65.3
+  },
+  {
+    "id": "reverse-words-in-a-string",
+    "slug": "reverse-words-in-a-string",
+    "title": "Reverse Words in a String",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 65
+  },
+  {
+    "id": "rotating-the-box",
+    "slug": "rotating-the-box",
+    "title": "Rotating the Box",
+    "url": "https://leetcode.com/problems/rotating-the-box/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "two-pointers",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 63.2
+  },
+  {
+    "id": "random-pick-with-weight",
+    "slug": "random-pick-with-weight",
+    "title": "Random Pick with Weight",
+    "url": "https://leetcode.com/problems/random-pick-with-weight/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 87
+  },
+  {
+    "id": "plates-between-candles",
+    "slug": "plates-between-candles",
+    "title": "Plates Between Candles",
+    "url": "https://leetcode.com/problems/plates-between-candles/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "preimage-size-of-factorial-zeroes-function",
+    "slug": "preimage-size-of-factorial-zeroes-function",
+    "title": "Preimage Size of Factorial Zeroes Function",
+    "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "threshold-majority-queries",
+    "slug": "threshold-majority-queries",
+    "title": "Threshold Majority Queries",
+    "url": "https://leetcode.com/problems/threshold-majority-queries/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Divide and Conquer",
+      "Counting",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "minimum-limit-of-balls-in-a-bag",
+    "slug": "minimum-limit-of-balls-in-a-bag",
+    "title": "Minimum Limit of Balls in a Bag",
+    "url": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "find-first-and-last-position-of-element-in-sorted-array",
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 74.1
+  },
+  {
+    "id": "search-in-rotated-sorted-array",
+    "slug": "search-in-rotated-sorted-array",
+    "title": "Search in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 72
+  },
+  {
+    "id": "kth-missing-positive-number",
+    "slug": "kth-missing-positive-number",
+    "title": "Kth Missing Positive Number",
+    "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 69
+  },
+  {
+    "id": "leftmost-column-with-at-least-a-one",
+    "slug": "leftmost-column-with-at-least-a-one",
+    "title": "Leftmost Column with at Least a One",
+    "url": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 68.3
+  },
+  {
+    "id": "search-a-2d-matrix",
+    "slug": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "capacity-to-ship-packages-within-d-days",
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "title": "Capacity To Ship Packages Within D Days",
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 60.7
+  },
+  {
+    "id": "sqrtx",
+    "slug": "sqrtx",
+    "title": "Sqrt(x)",
+    "url": "https://leetcode.com/problems/sqrtx/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Binary Search",
+      "Newton's Method"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 58.7
+  },
+  {
+    "id": "search-insert-position",
+    "slug": "search-insert-position",
+    "title": "Search Insert Position",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 57.1
+  },
+  {
+    "id": "building-boxes",
+    "slug": "building-boxes",
+    "title": "Building Boxes",
+    "url": "https://leetcode.com/problems/building-boxes/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Binary Search",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "minimum-time-to-complete-trips",
+    "slug": "minimum-time-to-complete-trips",
+    "title": "Minimum Time to Complete Trips",
+    "url": "https://leetcode.com/problems/minimum-time-to-complete-trips/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 54.6
+  },
+  {
+    "id": "missing-number",
+    "slug": "missing-number",
+    "title": "Missing Number",
+    "url": "https://leetcode.com/problems/missing-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 53.6
+  },
+  {
+    "id": "binary-search",
+    "slug": "binary-search",
+    "title": "Binary Search",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 52.3
+  },
+  {
+    "id": "minimum-number-of-days-to-make-m-bouquets",
+    "slug": "minimum-number-of-days-to-make-m-bouquets",
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-search",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 52
+  },
+  {
+    "id": "rank-teams-by-votes",
+    "slug": "rank-teams-by-votes",
+    "title": "Rank Teams by Votes",
+    "url": "https://leetcode.com/problems/rank-teams-by-votes/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "group-anagrams",
+    "slug": "group-anagrams",
+    "title": "Group Anagrams",
+    "url": "https://leetcode.com/problems/group-anagrams/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 96
+  },
+  {
+    "id": "find-the-least-frequent-digit",
+    "slug": "find-the-least-frequent-digit",
+    "title": "Find The Least Frequent Digit",
+    "url": "https://leetcode.com/problems/find-the-least-frequent-digit/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "valid-sudoku",
+    "slug": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "url": "https://leetcode.com/problems/valid-sudoku/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 74.5
+  },
+  {
+    "id": "integer-to-roman",
+    "slug": "integer-to-roman",
+    "title": "Integer to Roman",
+    "url": "https://leetcode.com/problems/integer-to-roman/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 74.4
+  },
+  {
+    "id": "sort-array-by-increasing-frequency",
+    "slug": "sort-array-by-increasing-frequency",
+    "title": "Sort Array by Increasing Frequency",
+    "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 74.4
+  },
+  {
+    "id": "high-access-employees",
+    "slug": "high-access-employees",
+    "title": "High-Access Employees",
+    "url": "https://leetcode.com/problems/high-access-employees/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian"
+    ],
+    "frequency": 74.2
+  },
+  {
+    "id": "custom-sort-string",
+    "slug": "custom-sort-string",
+    "title": "Custom Sort String",
+    "url": "https://leetcode.com/problems/custom-sort-string/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 72.9
+  },
+  {
+    "id": "product-of-array-except-self",
+    "slug": "product-of-array-except-self",
+    "title": "Product of Array Except Self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 72.3
+  },
+  {
+    "id": "contains-duplicate",
+    "slug": "contains-duplicate",
+    "title": "Contains Duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 69.4
+  },
+  {
+    "id": "roman-to-integer",
+    "slug": "roman-to-integer",
+    "title": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 68.7
+  },
+  {
+    "id": "valid-anagram",
+    "slug": "valid-anagram",
+    "title": "Valid Anagram",
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 65.4
+  },
+  {
+    "id": "analyze-user-website-visit-pattern",
+    "slug": "analyze-user-website-visit-pattern",
+    "title": "Analyze User Website Visit Pattern",
+    "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Uber"
+    ],
+    "frequency": 61.8
+  },
+  {
+    "id": "group-shifted-strings",
+    "slug": "group-shifted-strings",
+    "title": "Group Shifted Strings",
+    "url": "https://leetcode.com/problems/group-shifted-strings/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 61.4
+  },
+  {
+    "id": "first-missing-positive",
+    "slug": "first-missing-positive",
+    "title": "First Missing Positive",
+    "url": "https://leetcode.com/problems/first-missing-positive/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 60.9
+  },
+  {
+    "id": "maximum-good-subarray-sum",
+    "slug": "maximum-good-subarray-sum",
+    "title": "Maximum Good Subarray Sum",
+    "url": "https://leetcode.com/problems/maximum-good-subarray-sum/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "continuous-subarray-sum",
+    "slug": "continuous-subarray-sum",
+    "title": "Continuous Subarray Sum",
+    "url": "https://leetcode.com/problems/continuous-subarray-sum/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Prefix Sum",
+      "Pigeonhole Principle"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 60.2
+  },
+  {
+    "id": "random-pick-index",
+    "slug": "random-pick-index",
+    "title": "Random Pick Index",
+    "url": "https://leetcode.com/problems/random-pick-index/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "hashing",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 58.3
+  },
+  {
+    "id": "all-oone-data-structure",
+    "slug": "all-oone-data-structure",
+    "title": "All O`one Data Structure",
+    "url": "https://leetcode.com/problems/all-oone-data-structure/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 94.6
+  },
+  {
+    "id": "delete-node-in-a-linked-list",
+    "slug": "delete-node-in-a-linked-list",
+    "title": "Delete Node in a Linked List",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "insert-into-a-sorted-circular-linked-list",
+    "slug": "insert-into-a-sorted-circular-linked-list",
+    "title": "Insert into a Sorted Circular Linked List",
+    "url": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta"
+    ],
+    "frequency": 63.8
+  },
+  {
+    "id": "design-authentication-manager",
+    "slug": "design-authentication-manager",
+    "title": "Design Authentication Manager",
+    "url": "https://leetcode.com/problems/design-authentication-manager/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Atlassian",
+      "Microsoft"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "design-circular-queue",
+    "slug": "design-circular-queue",
+    "title": "Design Circular Queue",
+    "url": "https://leetcode.com/problems/design-circular-queue/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 62.7
+  },
+  {
+    "id": "design-hashmap",
+    "slug": "design-hashmap",
+    "title": "Design HashMap",
+    "url": "https://leetcode.com/problems/design-hashmap/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "odd-even-linked-list",
+    "slug": "odd-even-linked-list",
+    "title": "Odd Even Linked List",
+    "url": "https://leetcode.com/problems/odd-even-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 53.3
+  },
+  {
+    "id": "remove-zero-sum-consecutive-nodes-from-linked-list",
+    "slug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "url": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "populating-next-right-pointers-in-each-node",
+    "slug": "populating-next-right-pointers-in-each-node",
+    "title": "Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 48.9
+  },
+  {
+    "id": "reverse-linked-list-ii",
+    "slug": "reverse-linked-list-ii",
+    "title": "Reverse Linked List II",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 44.7
+  },
+  {
+    "id": "remove-duplicates-from-sorted-list",
+    "slug": "remove-duplicates-from-sorted-list",
+    "title": "Remove Duplicates from Sorted List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 43.8
+  },
+  {
+    "id": "populating-next-right-pointers-in-each-node-ii",
+    "slug": "populating-next-right-pointers-in-each-node-ii",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 40.5
+  },
+  {
+    "id": "flatten-binary-tree-to-linked-list",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "title": "Flatten Binary Tree to Linked List",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 39.8
+  },
+  {
+    "id": "partition-list",
+    "slug": "partition-list",
+    "title": "Partition List",
+    "url": "https://leetcode.com/problems/partition-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 38.9
+  },
+  {
+    "id": "add-two-numbers-ii",
+    "slug": "add-two-numbers-ii",
+    "title": "Add Two Numbers II",
+    "url": "https://leetcode.com/problems/add-two-numbers-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Math",
+      "Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 37.5
+  },
+  {
+    "id": "merge-nodes-in-between-zeros",
+    "slug": "merge-nodes-in-between-zeros",
+    "title": "Merge Nodes in Between Zeros",
+    "url": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 34.7
+  },
+  {
+    "id": "next-greater-node-in-linked-list",
+    "slug": "next-greater-node-in-linked-list",
+    "title": "Next Greater Node In Linked List",
+    "url": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 31.5
+  },
+  {
+    "id": "swapping-nodes-in-a-linked-list",
+    "slug": "swapping-nodes-in-a-linked-list",
+    "title": "Swapping Nodes in a Linked List",
+    "url": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "linked-list",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 31.4
+  },
+  {
+    "id": "minimum-remove-to-make-valid-parentheses",
+    "slug": "minimum-remove-to-make-valid-parentheses",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "basic-calculator-ii",
+    "slug": "basic-calculator-ii",
+    "title": "Basic Calculator II",
+    "url": "https://leetcode.com/problems/basic-calculator-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 89.5
+  },
+  {
+    "id": "design-snake-game",
+    "slug": "design-snake-game",
+    "title": "Design Snake Game",
+    "url": "https://leetcode.com/problems/design-snake-game/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 88.7
+  },
+  {
+    "id": "time-based-key-value-store",
+    "slug": "time-based-key-value-store",
+    "title": "Time Based Key-Value Store",
+    "url": "https://leetcode.com/problems/time-based-key-value-store/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 88.7
+  },
+  {
+    "id": "first-unique-number",
+    "slug": "first-unique-number",
+    "title": "First Unique Number",
+    "url": "https://leetcode.com/problems/first-unique-number/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 86.7
+  },
+  {
+    "id": "simplify-path",
+    "slug": "simplify-path",
+    "title": "Simplify Path",
+    "url": "https://leetcode.com/problems/simplify-path/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 83.7
+  },
+  {
+    "id": "buildings-with-an-ocean-view",
+    "slug": "buildings-with-an-ocean-view",
+    "title": "Buildings With an Ocean View",
+    "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 83.4
+  },
+  {
+    "id": "reverse-substrings-between-each-pair-of-parentheses",
+    "slug": "reverse-substrings-between-each-pair-of-parentheses",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "design-hit-counter",
+    "slug": "design-hit-counter",
+    "title": "Design Hit Counter",
+    "url": "https://leetcode.com/problems/design-hit-counter/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 80.4
+  },
+  {
+    "id": "logger-rate-limiter",
+    "slug": "logger-rate-limiter",
+    "title": "Logger Rate Limiter",
+    "url": "https://leetcode.com/problems/logger-rate-limiter/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 79.7
+  },
+  {
+    "id": "dot-product-of-two-sparse-vectors",
+    "slug": "dot-product-of-two-sparse-vectors",
+    "title": "Dot Product of Two Sparse Vectors",
+    "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design",
+      "Linear Algebra"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 78.5
+  },
+  {
+    "id": "valid-parentheses",
+    "slug": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 76.4
+  },
+  {
+    "id": "insert-delete-getrandom-o1",
+    "slug": "insert-delete-getrandom-o1",
+    "title": "Insert Delete GetRandom O(1)",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 75.8
+  },
+  {
+    "id": "moving-average-from-data-stream",
+    "slug": "moving-average-from-data-stream",
+    "title": "Moving Average from Data Stream",
+    "url": "https://leetcode.com/problems/moving-average-from-data-stream/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 73.2
+  },
+  {
+    "id": "minimum-add-to-make-parentheses-valid",
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 72
+  },
+  {
+    "id": "exclusive-time-of-functions",
+    "slug": "exclusive-time-of-functions",
+    "title": "Exclusive Time of Functions",
+    "url": "https://leetcode.com/problems/exclusive-time-of-functions/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 67.2
+  },
+  {
+    "id": "final-prices-with-a-special-discount-in-a-shop",
+    "slug": "final-prices-with-a-special-discount-in-a-shop",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "url": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 65.9
+  },
+  {
+    "id": "snapshot-array",
+    "slug": "snapshot-array",
+    "title": "Snapshot Array",
+    "url": "https://leetcode.com/problems/snapshot-array/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "stacks-queues",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Persistent Data Structure"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 63.9
+  },
+  {
+    "id": "powx-n",
+    "slug": "powx-n",
+    "title": "Pow(x, n)",
+    "url": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 84.4
+  },
+  {
+    "id": "numbers-with-same-consecutive-differences",
+    "slug": "numbers-with-same-consecutive-differences",
+    "title": "Numbers With Same Consecutive Differences",
+    "url": "https://leetcode.com/problems/numbers-with-same-consecutive-differences/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "restore-ip-addresses",
+    "slug": "restore-ip-addresses",
+    "title": "Restore IP Addresses",
+    "url": "https://leetcode.com/problems/restore-ip-addresses/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Backtracking"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 69.3
+  },
+  {
+    "id": "robot-room-cleaner",
+    "slug": "robot-room-cleaner",
+    "title": "Robot Room Cleaner",
+    "url": "https://leetcode.com/problems/robot-room-cleaner/",
+    "difficulty": "Hard",
+    "isPremium": true,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Backtracking",
+      "Interactive"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 63.6
+  },
+  {
+    "id": "basic-calculator",
+    "slug": "basic-calculator",
+    "title": "Basic Calculator",
+    "url": "https://leetcode.com/problems/basic-calculator/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 61.8
+  },
+  {
+    "id": "verbal-arithmetic-puzzle",
+    "slug": "verbal-arithmetic-puzzle",
+    "title": "Verbal Arithmetic Puzzle",
+    "url": "https://leetcode.com/problems/verbal-arithmetic-puzzle/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "String",
+      "Backtracking"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "expression-add-operators",
+    "slug": "expression-add-operators",
+    "title": "Expression Add Operators",
+    "url": "https://leetcode.com/problems/expression-add-operators/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Backtracking"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 59.7
+  },
+  {
+    "id": "decode-string",
+    "slug": "decode-string",
+    "title": "Decode String",
+    "url": "https://leetcode.com/problems/decode-string/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 57.4
+  },
+  {
+    "id": "permutations",
+    "slug": "permutations",
+    "title": "Permutations",
+    "url": "https://leetcode.com/problems/permutations/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Backtracking"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 57.1
+  },
+  {
+    "id": "sum-of-all-subset-xor-totals",
+    "slug": "sum-of-all-subset-xor-totals",
+    "title": "Sum of All Subset XOR Totals",
+    "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "reorder-list",
+    "slug": "reorder-list",
+    "title": "Reorder List",
+    "url": "https://leetcode.com/problems/reorder-list/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 54.5
+  },
+  {
+    "id": "power-of-two",
+    "slug": "power-of-two",
+    "title": "Power of Two",
+    "url": "https://leetcode.com/problems/power-of-two/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 52.5
+  },
+  {
+    "id": "remove-invalid-parentheses",
+    "slug": "remove-invalid-parentheses",
+    "title": "Remove Invalid Parentheses",
+    "url": "https://leetcode.com/problems/remove-invalid-parentheses/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 50.7
+  },
+  {
+    "id": "factor-combinations",
+    "slug": "factor-combinations",
+    "title": "Factor Combinations",
+    "url": "https://leetcode.com/problems/factor-combinations/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Backtracking",
+      "Prime Factorization"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "swap-nodes-in-pairs",
+    "slug": "swap-nodes-in-pairs",
+    "title": "Swap Nodes in Pairs",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "word-pattern-ii",
+    "slug": "word-pattern-ii",
+    "title": "Word Pattern II",
+    "url": "https://leetcode.com/problems/word-pattern-ii/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "integer-to-english-words",
+    "slug": "integer-to-english-words",
+    "title": "Integer to English Words",
+    "url": "https://leetcode.com/problems/integer-to-english-words/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 49.8
+  },
+  {
+    "id": "all-paths-from-source-to-target",
+    "slug": "all-paths-from-source-to-target",
+    "title": "All Paths From Source to Target",
+    "url": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "recursion-backtracking",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Directed Acyclic Graph"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Netflix"
+    ],
+    "frequency": 49.2
+  },
+  {
+    "id": "smallest-range-ii",
+    "slug": "smallest-range-ii",
+    "title": "Smallest Range II",
+    "url": "https://leetcode.com/problems/smallest-range-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Meta"
+    ],
+    "frequency": 88.6
+  },
+  {
+    "id": "transform-array-to-all-equal-elements",
+    "slug": "transform-array-to-all-equal-elements",
+    "title": "Transform Array to All Equal Elements",
+    "url": "https://leetcode.com/problems/transform-array-to-all-equal-elements/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 82.6
+  },
+  {
+    "id": "minimize-xor",
+    "slug": "minimize-xor",
+    "title": "Minimize XOR",
+    "url": "https://leetcode.com/problems/minimize-xor/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Greedy",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "minimum-number-of-coins-to-be-added",
+    "slug": "minimum-number-of-coins-to-be-added",
+    "title": "Minimum Number of Coins to be Added",
+    "url": "https://leetcode.com/problems/minimum-number-of-coins-to-be-added/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 77.8
+  },
+  {
+    "id": "gas-station",
+    "slug": "gas-station",
+    "title": "Gas Station",
+    "url": "https://leetcode.com/problems/gas-station/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 71.9
+  },
+  {
+    "id": "maximum-swap",
+    "slug": "maximum-swap",
+    "title": "Maximum Swap",
+    "url": "https://leetcode.com/problems/maximum-swap/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 71.2
+  },
+  {
+    "id": "largest-number",
+    "slug": "largest-number",
+    "title": "Largest Number",
+    "url": "https://leetcode.com/problems/largest-number/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "smallest-missing-non-negative-integer-after-operations",
+    "slug": "smallest-missing-non-negative-integer-after-operations",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "minimum-cost-to-equalize-arrays-using-swaps",
+    "slug": "minimum-cost-to-equalize-arrays-using-swaps",
+    "title": "Minimum Cost to Equalize Arrays Using Swaps",
+    "url": "https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 52.4
+  },
+  {
+    "id": "can-place-flowers",
+    "slug": "can-place-flowers",
+    "title": "Can Place Flowers",
+    "url": "https://leetcode.com/problems/can-place-flowers/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 50.2
+  },
+  {
+    "id": "array-with-elements-not-equal-to-average-of-neighbors",
+    "slug": "array-with-elements-not-equal-to-average-of-neighbors",
+    "title": "Array With Elements Not Equal to Average of Neighbors",
+    "url": "https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "construct-k-palindrome-strings",
+    "slug": "construct-k-palindrome-strings",
+    "title": "Construct K Palindrome Strings",
+    "url": "https://leetcode.com/problems/construct-k-palindrome-strings/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "maximum-xor-product",
+    "slug": "maximum-xor-product",
+    "title": "Maximum Xor Product",
+    "url": "https://leetcode.com/problems/maximum-xor-product/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Greedy",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 47.5
+  },
+  {
+    "id": "minimum-processing-time",
+    "slug": "minimum-processing-time",
+    "title": "Minimum Processing Time",
+    "url": "https://leetcode.com/problems/minimum-processing-time/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Google"
+    ],
+    "frequency": 44.1
+  },
+  {
+    "id": "minimum-health-to-beat-game",
+    "slug": "minimum-health-to-beat-game",
+    "title": "Minimum Health to Beat Game",
+    "url": "https://leetcode.com/problems/minimum-health-to-beat-game/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon"
+    ],
+    "frequency": 43.7
+  },
+  {
+    "id": "minimum-operations-to-make-array-non-decreasing",
+    "slug": "minimum-operations-to-make-array-non-decreasing",
+    "title": "Minimum Operations to Make Array Non Decreasing",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon"
+    ],
+    "frequency": 42
+  },
+  {
+    "id": "increasing-triplet-subsequence",
+    "slug": "increasing-triplet-subsequence",
+    "title": "Increasing Triplet Subsequence",
+    "url": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy",
+      "Longest Increasing Subsequence"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 41.2
+  },
+  {
+    "id": "distribute-money-to-maximum-children",
+    "slug": "distribute-money-to-maximum-children",
+    "title": "Distribute Money to Maximum Children",
+    "url": "https://leetcode.com/problems/distribute-money-to-maximum-children/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "greedy",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "frequency": 39.6
+  },
+  {
+    "id": "stock-price-fluctuation",
+    "slug": "stock-price-fluctuation",
+    "title": "Stock Price Fluctuation ",
+    "url": "https://leetcode.com/problems/stock-price-fluctuation/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 96.5
+  },
+  {
+    "id": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 93.9
+  },
+  {
+    "id": "contains-duplicate-iii",
+    "slug": "contains-duplicate-iii",
+    "title": "Contains Duplicate III",
+    "url": "https://leetcode.com/problems/contains-duplicate-iii/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 86.8
+  },
+  {
+    "id": "reconstruct-itinerary",
+    "slug": "reconstruct-itinerary",
+    "title": "Reconstruct Itinerary",
+    "url": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Graph Theory",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Eulerian Circuit",
+      "Eulerian Path",
+      "Semi-Eulerian Graph"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 84.7
+  },
+  {
+    "id": "top-k-frequent-elements",
+    "slug": "top-k-frequent-elements",
+    "title": "Top K Frequent Elements",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 82.3
+  },
+  {
+    "id": "reorganize-string",
+    "slug": "reorganize-string",
+    "title": "Reorganize String",
+    "url": "https://leetcode.com/problems/reorganize-string/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 78
+  },
+  {
+    "id": "design-movie-rental-system",
+    "slug": "design-movie-rental-system",
+    "title": "Design Movie Rental System",
+    "url": "https://leetcode.com/problems/design-movie-rental-system/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "frequency": 77.8
+  },
+  {
+    "id": "meeting-rooms-ii",
+    "slug": "meeting-rooms-ii",
+    "title": "Meeting Rooms II",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 76.8
+  },
+  {
+    "id": "k-closest-points-to-origin",
+    "slug": "k-closest-points-to-origin",
+    "title": "K Closest Points to Origin",
+    "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect",
+      "K-D Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 76.6
+  },
+  {
+    "id": "merge-k-sorted-lists",
+    "slug": "merge-k-sorted-lists",
+    "title": "Merge k Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Tournament Sort"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 75.6
+  },
+  {
+    "id": "my-calendar-i",
+    "slug": "my-calendar-i",
+    "title": "My Calendar I",
+    "url": "https://leetcode.com/problems/my-calendar-i/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "block-placement-queries",
+    "slug": "block-placement-queries",
+    "title": "Block Placement Queries",
+    "url": "https://leetcode.com/problems/block-placement-queries/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 71.4
+  },
+  {
+    "id": "minimum-cost-to-hire-k-workers",
+    "slug": "minimum-cost-to-hire-k-workers",
+    "title": "Minimum Cost to Hire K Workers",
+    "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 66.1
+  },
+  {
+    "id": "task-scheduler",
+    "slug": "task-scheduler",
+    "title": "Task Scheduler",
+    "url": "https://leetcode.com/problems/task-scheduler/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 62.4
+  },
+  {
+    "id": "cut-off-trees-for-golf-event",
+    "slug": "cut-off-trees-for-golf-event",
+    "title": "Cut Off Trees for Golf Event",
+    "url": "https://leetcode.com/problems/cut-off-trees-for-golf-event/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "frequency": 58.7
+  },
+  {
+    "id": "rectangle-area-ii",
+    "slug": "rectangle-area-ii",
+    "title": "Rectangle Area II",
+    "url": "https://leetcode.com/problems/rectangle-area-ii/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Segment Tree",
+      "Sweep Line",
+      "Ordered Set"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Google"
+    ],
+    "frequency": 58.7
+  },
+  {
+    "id": "sliding-window-median",
+    "slug": "sliding-window-median",
+    "title": "Sliding Window Median",
+    "url": "https://leetcode.com/problems/sliding-window-median/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Treap"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 57.1
+  },
+  {
+    "id": "kth-smallest-element-in-a-sorted-matrix",
+    "slug": "kth-smallest-element-in-a-sorted-matrix",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "heaps",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 56.5
+  },
+  {
+    "id": "bus-routes",
+    "slug": "bus-routes",
+    "title": "Bus Routes",
+    "url": "https://leetcode.com/problems/bus-routes/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "contain-virus",
+    "slug": "contain-virus",
+    "title": "Contain Virus",
+    "url": "https://leetcode.com/problems/contain-virus/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Google"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "binary-tree-vertical-order-traversal",
+    "slug": "binary-tree-vertical-order-traversal",
+    "title": "Binary Tree Vertical Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 93.6
+  },
+  {
+    "id": "construct-quad-tree",
+    "slug": "construct-quad-tree",
+    "title": "Construct Quad Tree",
+    "url": "https://leetcode.com/problems/construct-quad-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 89.3
+  },
+  {
+    "id": "lowest-common-ancestor-of-a-binary-tree-iii",
+    "slug": "lowest-common-ancestor-of-a-binary-tree-iii",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 88
+  },
+  {
+    "id": "nested-list-weight-sum",
+    "slug": "nested-list-weight-sum",
+    "title": "Nested List Weight Sum",
+    "url": "https://leetcode.com/problems/nested-list-weight-sum/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 86.8
+  },
+  {
+    "id": "shortest-path-in-binary-matrix",
+    "slug": "shortest-path-in-binary-matrix",
+    "title": "Shortest Path in Binary Matrix",
+    "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 80.2
+  },
+  {
+    "id": "sum-root-to-leaf-numbers",
+    "slug": "sum-root-to-leaf-numbers",
+    "title": "Sum Root to Leaf Numbers",
+    "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 79.5
+  },
+  {
+    "id": "count-paths-that-can-form-a-palindrome-in-a-tree",
+    "slug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "url": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "clone-graph",
+    "slug": "clone-graph",
+    "title": "Clone Graph",
+    "url": "https://leetcode.com/problems/clone-graph/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 71.2
+  },
+  {
+    "id": "escape-the-spreading-fire",
+    "slug": "escape-the-spreading-fire",
+    "title": "Escape the Spreading Fire",
+    "url": "https://leetcode.com/problems/escape-the-spreading-fire/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Uber"
+    ],
+    "frequency": 63.2
+  },
+  {
+    "id": "binary-tree-zigzag-level-order-traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "lowest-common-ancestor-of-a-binary-tree-iv",
+    "slug": "lowest-common-ancestor-of-a-binary-tree-iv",
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "accounts-merge",
+    "slug": "accounts-merge",
+    "title": "Accounts Merge",
+    "url": "https://leetcode.com/problems/accounts-merge/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 61.9
+  },
+  {
+    "id": "shortest-bridge",
+    "slug": "shortest-bridge",
+    "title": "Shortest Bridge",
+    "url": "https://leetcode.com/problems/shortest-bridge/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 58.5
+  },
+  {
+    "id": "the-maze",
+    "slug": "the-maze",
+    "title": "The Maze",
+    "url": "https://leetcode.com/problems/the-maze/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 58.5
+  },
+  {
+    "id": "the-time-when-the-network-becomes-idle",
+    "slug": "the-time-when-the-network-becomes-idle",
+    "title": "The Time When the Network Becomes Idle",
+    "url": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "binary-trees",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian"
+    ],
+    "frequency": 58.2
+  },
+  {
+    "id": "kth-largest-element-in-a-stream",
+    "slug": "kth-largest-element-in-a-stream",
+    "title": "Kth Largest Element in a Stream",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "range-sum-of-bst",
+    "slug": "range-sum-of-bst",
+    "title": "Range Sum of BST",
+    "url": "https://leetcode.com/problems/range-sum-of-bst/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 78.4
+  },
+  {
+    "id": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+    "url": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Doubly-Linked List"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Meta"
+    ],
+    "frequency": 63
+  },
+  {
+    "id": "closest-binary-search-tree-value",
+    "slug": "closest-binary-search-tree-value",
+    "title": "Closest Binary Search Tree Value",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Binary Search",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 62.3
+  },
+  {
+    "id": "binary-search-tree-iterator",
+    "slug": "binary-search-tree-iterator",
+    "title": "Binary Search Tree Iterator",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 61.4
+  },
+  {
+    "id": "trim-a-binary-search-tree",
+    "slug": "trim-a-binary-search-tree",
+    "title": "Trim a Binary Search Tree",
+    "url": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google"
+    ],
+    "frequency": 44.1
+  },
+  {
+    "id": "convert-sorted-array-to-binary-search-tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 40.9
+  },
+  {
+    "id": "unique-binary-search-trees",
+    "slug": "unique-binary-search-trees",
+    "title": "Unique Binary Search Trees",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 38
+  },
+  {
+    "id": "maximum-sum-bst-in-binary-tree",
+    "slug": "maximum-sum-bst-in-binary-tree",
+    "title": "Maximum Sum BST in Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 34.3
+  },
+  {
+    "id": "unique-binary-search-trees-ii",
+    "slug": "unique-binary-search-trees-ii",
+    "title": "Unique Binary Search Trees II",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 30.5
+  },
+  {
+    "id": "binary-search-tree-to-greater-sum-tree",
+    "slug": "binary-search-tree-to-greater-sum-tree",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "url": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google"
+    ],
+    "frequency": 30.3
+  },
+  {
+    "id": "balance-a-binary-search-tree",
+    "slug": "balance-a-binary-search-tree",
+    "title": "Balance a Binary Search Tree",
+    "url": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Divide and Conquer",
+      "Greedy",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 29.1
+  },
+  {
+    "id": "minimum-absolute-difference-in-bst",
+    "slug": "minimum-absolute-difference-in-bst",
+    "title": "Minimum Absolute Difference in BST",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 28.3
+  },
+  {
+    "id": "search-in-a-binary-search-tree",
+    "slug": "search-in-a-binary-search-tree",
+    "title": "Search in a Binary Search Tree",
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 27.4
+  },
+  {
+    "id": "convert-sorted-list-to-binary-search-tree",
+    "slug": "convert-sorted-list-to-binary-search-tree",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 26.5
+  },
+  {
+    "id": "find-mode-in-binary-search-tree",
+    "slug": "find-mode-in-binary-search-tree",
+    "title": "Find Mode in Binary Search Tree",
+    "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta"
+    ],
+    "frequency": 25.6
+  },
+  {
+    "id": "serialize-and-deserialize-bst",
+    "slug": "serialize-and-deserialize-bst",
+    "title": "Serialize and Deserialize BST",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 25.2
+  },
+  {
+    "id": "binary-search-tree-iterator-ii",
+    "slug": "binary-search-tree-iterator-ii",
+    "title": "Binary Search Tree Iterator II",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator-ii/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "bst",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Meta"
+    ],
+    "frequency": 24.3
+  },
+  {
+    "id": "number-of-increasing-paths-in-a-grid",
+    "slug": "number-of-increasing-paths-in-a-grid",
+    "title": "Number of Increasing Paths in a Grid",
+    "url": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Microsoft"
+    ],
+    "frequency": 85.7
+  },
+  {
+    "id": "count-ways-to-build-rooms-in-an-ant-colony",
+    "slug": "count-ways-to-build-rooms-in-an-ant-colony",
+    "title": "Count Ways to Build Rooms in an Ant Colony",
+    "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Combinatorics",
+      "DP on Trees",
+      "Fermat's Little Theorem"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "parallel-courses",
+    "slug": "parallel-courses",
+    "title": "Parallel Courses",
+    "url": "https://leetcode.com/problems/parallel-courses/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Graph Theory",
+      "Topological Sort",
+      "Directed Acyclic Graph"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 79.7
+  },
+  {
+    "id": "minimum-cost-to-reach-city-with-discounts",
+    "slug": "minimum-cost-to-reach-city-with-discounts",
+    "title": "Minimum Cost to Reach City With Discounts",
+    "url": "https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Dijkstra's Algorithm"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Uber"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "evaluate-division",
+    "slug": "evaluate-division",
+    "title": "Evaluate Division",
+    "url": "https://leetcode.com/problems/evaluate-division/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory",
+      "Shortest Path",
+      "Bellman–Ford Algorithm",
+      "Floyd–Warshall Algorithm"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 70.4
+  },
+  {
+    "id": "network-delay-time",
+    "slug": "network-delay-time",
+    "title": "Network Delay Time",
+    "url": "https://leetcode.com/problems/network-delay-time/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Dijkstra's Algorithm"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix"
+    ],
+    "frequency": 69.4
+  },
+  {
+    "id": "find-minimum-time-to-reach-last-room-i",
+    "slug": "find-minimum-time-to-reach-last-room-i",
+    "title": "Find Minimum Time to Reach Last Room I",
+    "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 68.3
+  },
+  {
+    "id": "number-of-possible-sets-of-closing-branches",
+    "slug": "number-of-possible-sets-of-closing-branches",
+    "title": "Number of Possible Sets of Closing Branches",
+    "url": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Bit Manipulation",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Enumeration",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "minimum-cost-to-convert-string-i",
+    "slug": "minimum-cost-to-convert-string-i",
+    "title": "Minimum Cost to Convert String I",
+    "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Graph Theory",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "minimum-time-to-visit-a-cell-in-a-grid",
+    "slug": "minimum-time-to-visit-a-cell-in-a-grid",
+    "title": "Minimum Time to Visit a Cell In a Grid",
+    "url": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Atlassian",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "the-maze-ii",
+    "slug": "the-maze-ii",
+    "title": "The Maze II",
+    "url": "https://leetcode.com/problems/the-maze-ii/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path",
+      "Dijkstra's Algorithm",
+      "Heuristic Search",
+      "A* Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 56.6
+  },
+  {
+    "id": "longest-increasing-path-in-a-matrix",
+    "slug": "longest-increasing-path-in-a-matrix",
+    "title": "Longest Increasing Path in a Matrix",
+    "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Memoization",
+      "Matrix",
+      "Directed Acyclic Graph"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "find-minimum-time-to-reach-last-room-ii",
+    "slug": "find-minimum-time-to-reach-last-room-ii",
+    "title": "Find Minimum Time to Reach Last Room II",
+    "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Uber"
+    ],
+    "frequency": 54.6
+  },
+  {
+    "id": "course-schedule-iv",
+    "slug": "course-schedule-iv",
+    "title": "Course Schedule IV",
+    "url": "https://leetcode.com/problems/course-schedule-iv/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Dynamic Programming",
+      "Graph Theory",
+      "Shortest Path",
+      "Dijkstra's Algorithm",
+      "Bellman–Ford Algorithm",
+      "Floyd–Warshall Algorithm"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "longest-path-with-different-adjacent-characters",
+    "slug": "longest-path-with-different-adjacent-characters",
+    "title": "Longest Path With Different Adjacent Characters",
+    "url": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 47.1
+  },
+  {
+    "id": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path",
+      "0-1 BFS",
+      "Dijkstra's Algorithm"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 47.1
+  },
+  {
+    "id": "collect-coins-in-a-tree",
+    "slug": "collect-coins-in-a-tree",
+    "title": "Collect Coins in a Tree",
+    "url": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "graphs",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Tree",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 43.8
+  },
+  {
+    "id": "climbing-stairs",
+    "slug": "climbing-stairs",
+    "title": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 88.6
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "title": "Best Time to Buy and Sell Stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 84.2
+  },
+  {
+    "id": "choose-numbers-from-two-arrays-in-range",
+    "slug": "choose-numbers-from-two-arrays-in-range",
+    "title": "Choose Numbers From Two Arrays in Range",
+    "url": "https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/",
+    "difficulty": "Hard",
+    "isPremium": true,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "longest-palindromic-substring",
+    "slug": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Manacher"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "minimizing-array-after-replacing-pairs-with-their-product",
+    "slug": "minimizing-array-after-replacing-pairs-with-their-product",
+    "title": "Minimizing Array After Replacing Pairs With Their Product",
+    "url": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "minimum-edge-reversals-so-every-node-is-reachable",
+    "slug": "minimum-edge-reversals-so-every-node-is-reachable",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "url": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 80
+  },
+  {
+    "id": "the-score-of-students-solving-math-expression",
+    "slug": "the-score-of-students-solving-math-expression",
+    "title": "The Score of Students Solving Math Expression",
+    "url": "https://leetcode.com/problems/the-score-of-students-solving-math-expression/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Memoization"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Meta"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-ii",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "title": "Best Time to Buy and Sell Stock II",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 67.1
+  },
+  {
+    "id": "palindromic-substrings",
+    "slug": "palindromic-substrings",
+    "title": "Palindromic Substrings",
+    "url": "https://leetcode.com/problems/palindromic-substrings/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 64.2
+  },
+  {
+    "id": "coin-change",
+    "slug": "coin-change",
+    "title": "Coin Change",
+    "url": "https://leetcode.com/problems/coin-change/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 63.2
+  },
+  {
+    "id": "cherry-pickup",
+    "slug": "cherry-pickup",
+    "title": "Cherry Pickup",
+    "url": "https://leetcode.com/problems/cherry-pickup/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 61.8
+  },
+  {
+    "id": "pascals-triangle",
+    "slug": "pascals-triangle",
+    "title": "Pascal's Triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 61.3
+  },
+  {
+    "id": "unique-paths",
+    "slug": "unique-paths",
+    "title": "Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 60.5
+  },
+  {
+    "id": "jump-game-ii",
+    "slug": "jump-game-ii",
+    "title": "Jump Game II",
+    "url": "https://leetcode.com/problems/jump-game-ii/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 58.9
+  },
+  {
+    "id": "valid-palindrome-iii",
+    "slug": "valid-palindrome-iii",
+    "title": "Valid Palindrome III",
+    "url": "https://leetcode.com/problems/valid-palindrome-iii/",
+    "difficulty": "Hard",
+    "isPremium": true,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Meta"
+    ],
+    "frequency": 58.6
+  },
+  {
+    "id": "minimum-operations-to-reduce-an-integer-to-0",
+    "slug": "minimum-operations-to-reduce-an-integer-to-0",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 58.5
+  },
+  {
+    "id": "maximum-coin-collection",
+    "slug": "maximum-coin-collection",
+    "title": "Maximum Coin Collection ",
+    "url": "https://leetcode.com/problems/maximum-coin-collection/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 56.6
+  },
+  {
+    "id": "minimum-cost-for-tickets",
+    "slug": "minimum-cost-for-tickets",
+    "title": "Minimum Cost For Tickets",
+    "url": "https://leetcode.com/problems/minimum-cost-for-tickets/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "dynamic-programming",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "longest-common-prefix",
+    "slug": "longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 75.8
+  },
+  {
+    "id": "word-search-ii",
+    "slug": "word-search-ii",
+    "title": "Word Search II",
+    "url": "https://leetcode.com/problems/word-search-ii/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 70.4
+  },
+  {
+    "id": "design-in-memory-file-system",
+    "slug": "design-in-memory-file-system",
+    "title": "Design In-Memory File System",
+    "url": "https://leetcode.com/problems/design-in-memory-file-system/",
+    "difficulty": "Hard",
+    "isPremium": true,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 64.6
+  },
+  {
+    "id": "top-k-frequent-words",
+    "slug": "top-k-frequent-words",
+    "title": "Top K Frequent Words",
+    "url": "https://leetcode.com/problems/top-k-frequent-words/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "word-break",
+    "slug": "word-break",
+    "title": "Word Break",
+    "url": "https://leetcode.com/problems/word-break/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization",
+      "Brute-Force Search"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 61.8
+  },
+  {
+    "id": "minimum-cost-to-convert-string-ii",
+    "slug": "minimum-cost-to-convert-string-ii",
+    "title": "Minimum Cost to Convert String II",
+    "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Trie",
+      "Shortest Path"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Atlassian",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 60.8
+  },
+  {
+    "id": "replace-words",
+    "slug": "replace-words",
+    "title": "Replace Words",
+    "url": "https://leetcode.com/problems/replace-words/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Uber"
+    ],
+    "frequency": 54.6
+  },
+  {
+    "id": "implement-trie-prefix-tree",
+    "slug": "implement-trie-prefix-tree",
+    "title": "Implement Trie (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 53.3
+  },
+  {
+    "id": "concatenated-words",
+    "slug": "concatenated-words",
+    "title": "Concatenated Words",
+    "url": "https://leetcode.com/problems/concatenated-words/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Trie",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon"
+    ],
+    "frequency": 52.1
+  },
+  {
+    "id": "word-break-ii",
+    "slug": "word-break-ii",
+    "title": "Word Break II",
+    "url": "https://leetcode.com/problems/word-break-ii/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 50.1
+  },
+  {
+    "id": "k-divisible-elements-subarrays",
+    "slug": "k-divisible-elements-subarrays",
+    "title": "K Divisible Elements Subarrays",
+    "url": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Trie",
+      "Rolling Hash",
+      "Hash Function",
+      "Enumeration"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "design-search-autocomplete-system",
+    "slug": "design-search-autocomplete-system",
+    "title": "Design Search Autocomplete System",
+    "url": "https://leetcode.com/problems/design-search-autocomplete-system/",
+    "difficulty": "Hard",
+    "isPremium": true,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 49.2
+  },
+  {
+    "id": "search-suggestions-system",
+    "slug": "search-suggestions-system",
+    "title": "Search Suggestions System",
+    "url": "https://leetcode.com/problems/search-suggestions-system/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 43.7
+  },
+  {
+    "id": "map-sum-pairs",
+    "slug": "map-sum-pairs",
+    "title": "Map Sum Pairs",
+    "url": "https://leetcode.com/problems/map-sum-pairs/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart"
+    ],
+    "frequency": 42.5
+  },
+  {
+    "id": "number-of-matching-subsequences",
+    "slug": "number-of-matching-subsequences",
+    "title": "Number of Matching Subsequences",
+    "url": "https://leetcode.com/problems/number-of-matching-subsequences/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Trie",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 35.5
+  },
+  {
+    "id": "design-add-and-search-words-data-structure",
+    "slug": "design-add-and-search-words-data-structure",
+    "title": "Design Add and Search Words Data Structure",
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 35.3
+  },
+  {
+    "id": "short-encoding-of-words",
+    "slug": "short-encoding-of-words",
+    "title": "Short Encoding of Words",
+    "url": "https://leetcode.com/problems/short-encoding-of-words/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Apple"
+    ],
+    "frequency": 29.7
+  },
+  {
+    "id": "design-file-system",
+    "slug": "design-file-system",
+    "title": "Design File System",
+    "url": "https://leetcode.com/problems/design-file-system/",
+    "difficulty": "Medium",
+    "isPremium": true,
+    "topic": "tries",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 29.5
+  },
+  {
+    "id": "special-binary-string",
+    "slug": "special-binary-string",
+    "title": "Special Binary String",
+    "url": "https://leetcode.com/problems/special-binary-string/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Divide and Conquer",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 100
+  },
+  {
+    "id": "find-the-closest-palindrome",
+    "slug": "find-the-closest-palindrome",
+    "title": "Find the Closest Palindrome",
+    "url": "https://leetcode.com/problems/find-the-closest-palindrome/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 80.7
+  },
+  {
+    "id": "validate-ip-address",
+    "slug": "validate-ip-address",
+    "title": "Validate IP Address",
+    "url": "https://leetcode.com/problems/validate-ip-address/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 78.7
+  },
+  {
+    "id": "string-to-integer-atoi",
+    "slug": "string-to-integer-atoi",
+    "title": "String to Integer (atoi)",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Netflix",
+      "Uber"
+    ],
+    "frequency": 69.4
+  },
+  {
+    "id": "valid-number",
+    "slug": "valid-number",
+    "title": "Valid Number",
+    "url": "https://leetcode.com/problems/valid-number/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 68
+  },
+  {
+    "id": "add-strings",
+    "slug": "add-strings",
+    "title": "Add Strings",
+    "url": "https://leetcode.com/problems/add-strings/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 64.6
+  },
+  {
+    "id": "text-justification",
+    "slug": "text-justification",
+    "title": "Text Justification",
+    "url": "https://leetcode.com/problems/text-justification/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 63.2
+  },
+  {
+    "id": "goat-latin",
+    "slug": "goat-latin",
+    "title": "Goat Latin",
+    "url": "https://leetcode.com/problems/goat-latin/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 61.4
+  },
+  {
+    "id": "zigzag-conversion",
+    "slug": "zigzag-conversion",
+    "title": "Zigzag Conversion",
+    "url": "https://leetcode.com/problems/zigzag-conversion/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 57.8
+  },
+  {
+    "id": "check-if-a-string-is-an-acronym-of-words",
+    "slug": "check-if-a-string-is-an-acronym-of-words",
+    "title": "Check if a String Is an Acronym of Words",
+    "url": "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Uber"
+    ],
+    "frequency": 52.4
+  },
+  {
+    "id": "calculate-digit-sum-of-a-string",
+    "slug": "calculate-digit-sum-of-a-string",
+    "title": "Calculate Digit Sum of a String",
+    "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "excel-sheet-column-number",
+    "slug": "excel-sheet-column-number",
+    "title": "Excel Sheet Column Number",
+    "url": "https://leetcode.com/problems/excel-sheet-column-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "number-of-strings-that-appear-as-substrings-in-word",
+    "slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "url": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "multiply-strings",
+    "slug": "multiply-strings",
+    "title": "Multiply Strings",
+    "url": "https://leetcode.com/problems/multiply-strings/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 49.3
+  },
+  {
+    "id": "length-of-last-word",
+    "slug": "length-of-last-word",
+    "title": "Length of Last Word",
+    "url": "https://leetcode.com/problems/length-of-last-word/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 47.6
+  },
+  {
+    "id": "rotate-string",
+    "slug": "rotate-string",
+    "title": "Rotate String",
+    "url": "https://leetcode.com/problems/rotate-string/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "String Matching"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 47.4
+  },
+  {
+    "id": "split-message-based-on-limit",
+    "slug": "split-message-based-on-limit",
+    "title": "Split Message Based on Limit",
+    "url": "https://leetcode.com/problems/split-message-based-on-limit/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "String",
+      "Enumeration"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Uber"
+    ],
+    "frequency": 47.1
+  },
+  {
+    "id": "excel-sheet-column-title",
+    "slug": "excel-sheet-column-title",
+    "title": "Excel Sheet Column Title",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "strings",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 45.5
+  },
+  {
+    "id": "bitwise-or-of-adjacent-elements",
+    "slug": "bitwise-or-of-adjacent-elements",
+    "title": "Bitwise OR of Adjacent Elements",
+    "url": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "triples-with-bitwise-and-equal-to-zero",
+    "slug": "triples-with-bitwise-and-equal-to-zero",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "url": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart",
+      "Google"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "count-pairs-of-similar-strings",
+    "slug": "count-pairs-of-similar-strings",
+    "title": "Count Pairs Of Similar Strings",
+    "url": "https://leetcode.com/problems/count-pairs-of-similar-strings/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 63.1
+  },
+  {
+    "id": "single-number",
+    "slug": "single-number",
+    "title": "Single Number",
+    "url": "https://leetcode.com/problems/single-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 59.1
+  },
+  {
+    "id": "reverse-bits",
+    "slug": "reverse-bits",
+    "title": "Reverse Bits",
+    "url": "https://leetcode.com/problems/reverse-bits/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 58.5
+  },
+  {
+    "id": "number-of-1-bits",
+    "slug": "number-of-1-bits",
+    "title": "Number of 1 Bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 55.2
+  },
+  {
+    "id": "add-binary",
+    "slug": "add-binary",
+    "title": "Add Binary",
+    "url": "https://leetcode.com/problems/add-binary/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 53.2
+  },
+  {
+    "id": "maximum-xor-for-each-query",
+    "slug": "maximum-xor-for-each-query",
+    "title": "Maximum XOR for Each Query",
+    "url": "https://leetcode.com/problems/maximum-xor-for-each-query/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "palindrome-permutation",
+    "slug": "palindrome-permutation",
+    "title": "Palindrome Permutation",
+    "url": "https://leetcode.com/problems/palindrome-permutation/",
+    "difficulty": "Easy",
+    "isPremium": true,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Meta",
+      "Uber"
+    ],
+    "frequency": 49.9
+  },
+  {
+    "id": "divide-two-integers",
+    "slug": "divide-two-integers",
+    "title": "Divide Two Integers",
+    "url": "https://leetcode.com/problems/divide-two-integers/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 44.7
+  },
+  {
+    "id": "largest-combination-with-bitwise-and-greater-than-zero",
+    "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google"
+    ],
+    "frequency": 44.1
+  },
+  {
+    "id": "set-mismatch",
+    "slug": "set-mismatch",
+    "title": "Set Mismatch",
+    "url": "https://leetcode.com/problems/set-mismatch/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 42.6
+  },
+  {
+    "id": "find-the-difference",
+    "slug": "find-the-difference",
+    "title": "Find the Difference",
+    "url": "https://leetcode.com/problems/find-the-difference/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 41.2
+  },
+  {
+    "id": "total-hamming-distance",
+    "slug": "total-hamming-distance",
+    "title": "Total Hamming Distance",
+    "url": "https://leetcode.com/problems/total-hamming-distance/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Apple",
+      "Meta"
+    ],
+    "frequency": 39.6
+  },
+  {
+    "id": "maximum-k-to-sort-a-permutation",
+    "slug": "maximum-k-to-sort-a-permutation",
+    "title": "Maximum K to Sort a Permutation",
+    "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon"
+    ],
+    "frequency": 37.5
+  },
+  {
+    "id": "sum-of-two-integers",
+    "slug": "sum-of-two-integers",
+    "title": "Sum of Two Integers",
+    "url": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 37
+  },
+  {
+    "id": "divide-array-into-equal-pairs",
+    "slug": "divide-array-into-equal-pairs",
+    "title": "Divide Array Into Equal Pairs",
+    "url": "https://leetcode.com/problems/divide-array-into-equal-pairs/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 34.7
+  },
+  {
+    "id": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "bit-manipulation",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Bit Manipulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 33.2
+  },
+  {
+    "id": "add-digits",
+    "slug": "add-digits",
+    "title": "Add Digits",
+    "url": "https://leetcode.com/problems/add-digits/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "minimum-moves-to-equal-array-elements-iii",
+    "slug": "minimum-moves-to-equal-array-elements-iii",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "nim-game",
+    "slug": "nim-game",
+    "title": "Nim Game",
+    "url": "https://leetcode.com/problems/nim-game/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Brainteaser",
+      "Minimax",
+      "Game Theory",
+      "Nim Game",
+      "Impartial Game"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "smallest-range-i",
+    "slug": "smallest-range-i",
+    "title": "Smallest Range I",
+    "url": "https://leetcode.com/problems/smallest-range-i/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Google"
+    ],
+    "frequency": 82.4
+  },
+  {
+    "id": "sum-of-decoded-numbers",
+    "slug": "sum-of-decoded-numbers",
+    "title": "Sum of Decoded Numbers",
+    "url": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Flipkart"
+    ],
+    "frequency": 75
+  },
+  {
+    "id": "palindrome-number",
+    "slug": "palindrome-number",
+    "title": "Palindrome Number",
+    "url": "https://leetcode.com/problems/palindrome-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 73.8
+  },
+  {
+    "id": "reverse-integer",
+    "slug": "reverse-integer",
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 66.3
+  },
+  {
+    "id": "rotate-image",
+    "slug": "rotate-image",
+    "title": "Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Flipkart",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 65.5
+  },
+  {
+    "id": "add-two-integers",
+    "slug": "add-two-integers",
+    "title": "Add Two Integers",
+    "url": "https://leetcode.com/problems/add-two-integers/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 58.8
+  },
+  {
+    "id": "plus-one",
+    "slug": "plus-one",
+    "title": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 56.2
+  },
+  {
+    "id": "count-primes",
+    "slug": "count-primes",
+    "title": "Count Primes",
+    "url": "https://leetcode.com/problems/count-primes/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory",
+      "Primality Test",
+      "Sieve Theory",
+      "Prime Number Sieve"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Uber"
+    ],
+    "frequency": 47.8
+  },
+  {
+    "id": "find-triangular-sum-of-an-array",
+    "slug": "find-triangular-sum-of-an-array",
+    "title": "Find Triangular Sum of an Array",
+    "url": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math",
+      "Simulation",
+      "Combinatorics",
+      "Number Theory"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 41.5
+  },
+  {
+    "id": "the-kth-factor-of-n",
+    "slug": "the-kth-factor-of-n",
+    "title": "The kth Factor of n",
+    "url": "https://leetcode.com/problems/the-kth-factor-of-n/",
+    "difficulty": "Medium",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Number Theory",
+      "Prime Factorization"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 41.5
+  },
+  {
+    "id": "consecutive-numbers-sum",
+    "slug": "consecutive-numbers-sum",
+    "title": "Consecutive Numbers Sum",
+    "url": "https://leetcode.com/problems/consecutive-numbers-sum/",
+    "difficulty": "Hard",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Enumeration"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Google",
+      "Microsoft"
+    ],
+    "frequency": 36.2
+  },
+  {
+    "id": "count-odd-numbers-in-an-interval-range",
+    "slug": "count-odd-numbers-in-an-interval-range",
+    "title": "Count Odd Numbers in an Interval Range",
+    "url": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 36.2
+  },
+  {
+    "id": "find-n-unique-integers-sum-up-to-zero",
+    "slug": "find-n-unique-integers-sum-up-to-zero",
+    "title": "Find N Unique Integers Sum up to Zero",
+    "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Array",
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 36.2
+  },
+  {
+    "id": "water-bottles",
+    "slug": "water-bottles",
+    "title": "Water Bottles",
+    "url": "https://leetcode.com/problems/water-bottles/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math",
+      "Simulation"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 34.7
+  },
+  {
+    "id": "ugly-number",
+    "slug": "ugly-number",
+    "title": "Ugly Number",
+    "url": "https://leetcode.com/problems/ugly-number/",
+    "difficulty": "Easy",
+    "isPremium": false,
+    "topic": "math",
+    "pattern": null,
+    "leetcodeTopics": [
+      "Math"
+    ],
+    "source": "company",
+    "sheetOrder": null,
+    "companies": [
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "frequency": 32
+  }
+]

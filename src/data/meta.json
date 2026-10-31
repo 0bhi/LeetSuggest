@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-10-29T17:35:19.147Z",
+  "sheetSource": "https://takeuforward.org/prep-hub/strivers-180-master-dsa-patterns",
+  "companySource": "https://github.com/liquidslr/leetcode-company-wise-problems",
+  "companies": [
+    "Amazon",
+    "Google",
+    "Microsoft",
+    "Meta",
+    "Adobe",
+    "Apple",
+    "Uber",
+    "Flipkart",
+    "Atlassian",
+    "Netflix"
+  ],
+  "sheetCount": 146,
+  "sheetFreeCount": 132,
+  "sheetPremiumCount": 14,
+  "droppedSheetCount": 0,
+  "extraCount": 306,
+  "extraFreeCount": 266,
+  "topicCounts": {
+    "arrays": {
+      "sheet": 5,
+      "extras": 18
+    },
+    "two-pointers": {
+      "sheet": 15,
+      "extras": 18
+    },
+    "binary-search": {
+      "sheet": 10,
+      "extras": 18
+    },
+    "hashing": {
+      "sheet": 4,
+      "extras": 18
+    },
+    "linked-list": {
+      "sheet": 15,
+      "extras": 18
+    },
+    "stacks-queues": {
+      "sheet": 13,
+      "extras": 18
+    },
+    "recursion-backtracking": {
+      "sheet": 10,
+      "extras": 18
+    },
+    "greedy": {
+      "sheet": 6,
+      "extras": 18
+    },
+    "heaps": {
+      "sheet": 2,
+      "extras": 18
+    },
+    "binary-trees": {
+      "sheet": 12,
+      "extras": 18
+    },
+    "bst": {
+      "sheet": 10,
+      "extras": 18
+    },
+    "graphs": {
+      "sheet": 20,
+      "extras": 18
+    },
+    "dynamic-programming": {
+      "sheet": 14,
+      "extras": 18
+    },
+    "tries": {
+      "sheet": 5,
+      "extras": 18
+    },
+    "strings": {
+      "sheet": 3,
+      "extras": 18
+    },
+    "bit-manipulation": {
+      "sheet": 2,
+      "extras": 18
+    },
+    "math": {
+      "sheet": 0,
+      "extras": 18
+    }
+  }
+}
