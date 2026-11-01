@@ -3,6 +3,7 @@ import { connection } from "next/server";
 import { ArrowDown, Check, Layers, Sparkles, Target } from "lucide-react";
 import { OnboardingForm } from "@/components/onboarding-form";
 import { SignOutButton } from "@/components/sign-out-button";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { requireUser } from "@/lib/auth";
 import { getSettings } from "@/lib/db";
 
@@ -25,13 +26,14 @@ export default async function OnboardingPage() {
 
       <div className="absolute right-5 top-5 z-10 flex items-center gap-2 text-[10px] font-medium text-faint">
         <span className="hidden max-w-[14rem] truncate sm:inline">{user.email}</span>
+        <ThemeToggle compact />
         <SignOutButton compact />
       </div>
 
       <div className="relative mx-auto grid min-h-dvh w-full max-w-[1280px] items-center gap-10 px-5 py-8 sm:px-8 lg:grid-cols-[1.05fr_0.95fr] lg:gap-16 lg:px-12 lg:py-12">
         <section className="animate-rise">
           <div className="flex items-center gap-3">
-            <span className="relative grid h-11 w-11 place-items-center rounded-[1.05rem] bg-ink font-serif text-2xl text-lime shadow-sm">
+            <span className="relative grid h-11 w-11 place-items-center rounded-[1.05rem] bg-ink font-serif text-2xl text-lime shadow-sm dark:text-on-lime">
               L
               <span className="absolute -right-1 -top-1 h-2.5 w-2.5 rounded-full border-2 border-ink bg-lime" />
             </span>

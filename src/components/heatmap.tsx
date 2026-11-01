@@ -3,10 +3,10 @@ import { formatDateHeading } from "@/lib/dates";
 
 function colorFor(count: number) {
   if (count <= 0) return "var(--color-paper-deep)";
-  if (count === 1) return "#e0f5a5";
-  if (count <= 3) return "#c9f36a";
-  if (count <= 5) return "#a9d94a";
-  return "#7b9a2d";
+  if (count === 1) return "var(--heat-1)";
+  if (count <= 3) return "var(--heat-2)";
+  if (count <= 5) return "var(--heat-3)";
+  return "var(--heat-4)";
 }
 
 export function Heatmap({ days }: { days: HeatmapDay[] }) {

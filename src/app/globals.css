@@ -1,29 +1,104 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  color-scheme: light;
+
+  --paper: #f3efe5;
+  --paper-deep: #eae4d7;
+  --surface: #fffdf8;
+  --ink: #1b2118;
+  --ink-soft: #343c2f;
+  --muted: #70776b;
+  --faint: #9a9f93;
+  --line: #ddd6c8;
+  --line-strong: #c7beac;
+  --lime: #c9f36a;
+  --lime-soft: #e8f9bd;
+  --lime-deep: #718f27;
+  --on-lime: #1b2118;
+  --coral: #dd6a4b;
+  --coral-soft: #f8ded4;
+  --blue: #4f7cff;
+  --blue-soft: #dfe7ff;
+  --amber: #c98a2c;
+  --amber-soft: #f7e8cb;
+
+  --heat-1: #e0f5a5;
+  --heat-2: #c9f36a;
+  --heat-3: #a9d94a;
+  --heat-4: #7b9a2d;
+
+  --glow-lime: rgba(201, 243, 106, 0.38);
+  --glow-surface: rgba(255, 253, 248, 0.95);
+  --dot-grid: rgba(27, 33, 24, 0.055);
+
+  --shadow-card-base: 0 1px 0 rgba(27, 33, 24, 0.04), 0 18px 38px -26px rgba(27, 33, 24, 0.34);
+  --shadow-float-base: 0 18px 45px -24px rgba(27, 33, 24, 0.45);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --paper: #12140f;
+  --paper-deep: #1b1e18;
+  --surface: #1e211b;
+  --ink: #efecdf;
+  --ink-soft: #d4d0c4;
+  --muted: #a4aa9b;
+  --faint: #8a9083;
+  --line: #2e322a;
+  --line-strong: #42473c;
+  --lime: #c9f36a;
+  --lime-soft: #2c3618;
+  --lime-deep: #b8df68;
+  --on-lime: #1b2118;
+  --coral: #ef8b6f;
+  --coral-soft: #38211a;
+  --blue: #8aa4ff;
+  --blue-soft: #1d2740;
+  --amber: #e3b464;
+  --amber-soft: #362a18;
+
+  --heat-1: #2d3a19;
+  --heat-2: #4a5f24;
+  --heat-3: #6c8730;
+  --heat-4: #97bf47;
+
+  --glow-lime: rgba(201, 243, 106, 0.14);
+  --glow-surface: rgba(239, 236, 223, 0.045);
+  --dot-grid: rgba(239, 236, 223, 0.06);
+
+  --shadow-card-base: 0 1px 0 rgba(0, 0, 0, 0.3), 0 22px 44px -30px rgba(0, 0, 0, 0.85);
+  --shadow-float-base: 0 18px 45px -24px rgba(0, 0, 0, 0.75);
+}
+
 @theme inline {
-  --color-paper: #f3efe5;
-  --color-paper-deep: #eae4d7;
-  --color-surface: #fffdf8;
-  --color-ink: #1b2118;
-  --color-ink-soft: #343c2f;
-  --color-muted: #70776b;
-  --color-faint: #9a9f93;
-  --color-line: #ddd6c8;
-  --color-line-strong: #c7beac;
-  --color-lime: #c9f36a;
-  --color-lime-soft: #e8f9bd;
-  --color-lime-deep: #718f27;
-  --color-coral: #dd6a4b;
-  --color-coral-soft: #f8ded4;
-  --color-blue: #4f7cff;
-  --color-blue-soft: #dfe7ff;
-  --color-amber: #c98a2c;
-  --color-amber-soft: #f7e8cb;
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-lime: var(--lime);
+  --color-lime-soft: var(--lime-soft);
+  --color-lime-deep: var(--lime-deep);
+  --color-on-lime: var(--on-lime);
+  --color-coral: var(--coral);
+  --color-coral-soft: var(--coral-soft);
+  --color-blue: var(--blue);
+  --color-blue-soft: var(--blue-soft);
+  --color-amber: var(--amber);
+  --color-amber-soft: var(--amber-soft);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --font-serif: var(--font-instrument-serif);
-  --shadow-card: 0 1px 0 rgba(27, 33, 24, 0.04), 0 18px 38px -26px rgba(27, 33, 24, 0.34);
-  --shadow-float: 0 18px 45px -24px rgba(27, 33, 24, 0.45);
+  --shadow-card: var(--shadow-card-base);
+  --shadow-float: var(--shadow-float-base);
 }
 
 @layer base {
@@ -33,16 +108,15 @@
 
   html {
     scroll-behavior: smooth;
-    color-scheme: light;
   }
 
   body {
     min-height: 100dvh;
     background-color: var(--color-paper);
     background-image:
-      radial-gradient(circle at 12% -8%, rgba(201, 243, 106, 0.38), transparent 30rem),
-      radial-gradient(circle at 92% 4%, rgba(255, 253, 248, 0.95), transparent 25rem),
-      radial-gradient(rgba(27, 33, 24, 0.055) 0.7px, transparent 0.7px);
+      radial-gradient(circle at 12% -8%, var(--glow-lime), transparent 30rem),
+      radial-gradient(circle at 92% 4%, var(--glow-surface), transparent 25rem),
+      radial-gradient(var(--dot-grid) 0.7px, transparent 0.7px);
     background-size: auto, auto, 9px 9px;
     background-attachment: fixed;
     color: var(--color-ink);
@@ -51,7 +125,7 @@
 
   ::selection {
     background: var(--color-lime);
-    color: var(--color-ink);
+    color: var(--color-on-lime);
   }
 
   button,
@@ -95,7 +169,7 @@
   }
 
   .btn-lime {
-    @apply bg-lime text-ink hover:bg-lime-soft;
+    @apply bg-lime text-on-lime hover:bg-lime-soft dark:hover:bg-lime/85;
   }
 
   .btn-ghost {

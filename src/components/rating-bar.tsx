@@ -9,10 +9,10 @@ import { cn } from "@/lib/utils";
 import { timeUntil } from "@/lib/dates";
 
 const RATINGS: { value: Rating; label: string; classes: string }[] = [
-  { value: 1, label: "Again", classes: "border-coral/25 bg-coral-soft/80 text-coral hover:bg-coral hover:text-white" },
-  { value: 2, label: "Hard", classes: "border-amber/25 bg-amber-soft/80 text-amber hover:bg-amber hover:text-white" },
-  { value: 3, label: "Good", classes: "border-lime-deep/25 bg-lime-soft/80 text-lime-deep hover:bg-lime-deep hover:text-white" },
-  { value: 4, label: "Easy", classes: "border-blue/25 bg-blue-soft/80 text-blue hover:bg-blue hover:text-white" },
+  { value: 1, label: "Again", classes: "border-coral/25 bg-coral-soft/80 text-coral hover:bg-coral hover:text-paper" },
+  { value: 2, label: "Hard", classes: "border-amber/25 bg-amber-soft/80 text-amber hover:bg-amber hover:text-paper" },
+  { value: 3, label: "Good", classes: "border-lime-deep/25 bg-lime-soft/80 text-lime-deep hover:bg-lime-deep hover:text-paper" },
+  { value: 4, label: "Easy", classes: "border-blue/25 bg-blue-soft/80 text-blue hover:bg-blue hover:text-paper" },
 ];
 
 export function RatingBar({

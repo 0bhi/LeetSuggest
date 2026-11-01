@@ -10,6 +10,7 @@ import {
   Sparkles,
 } from "lucide-react";
 import { SignOutButton } from "@/components/sign-out-button";
+import { ThemeToggle } from "@/components/theme-toggle";
 import type { AppUser } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -30,7 +31,7 @@ function Brand({ compact = false }: { compact?: boolean }) {
     <Link href="/" className="group flex items-center gap-3">
       <span
         className={cn(
-          "relative grid shrink-0 place-items-center rounded-[1.05rem] bg-ink font-serif text-lime shadow-sm transition group-hover:-rotate-3",
+          "relative grid shrink-0 place-items-center rounded-[1.05rem] bg-ink font-serif text-lime shadow-sm transition group-hover:-rotate-3 dark:text-on-lime",
           compact ? "h-9 w-9 text-lg" : "h-11 w-11 text-2xl"
         )}
       >
@@ -65,19 +66,19 @@ export function SidebarNav({ user }: { user: AppUser }) {
               className={cn(
                 "group flex items-center gap-3 rounded-2xl px-3.5 py-3 text-sm font-semibold transition",
                 active
-                  ? "bg-lime text-ink shadow-sm"
+                  ? "bg-lime text-on-lime shadow-sm"
                   : "text-muted hover:bg-paper-deep/70 hover:text-ink"
               )}
             >
               <Icon
                 className={cn(
                   "h-[18px] w-[18px] transition",
-                  active ? "text-ink" : "text-faint group-hover:text-ink"
+                  active ? "text-on-lime" : "text-faint group-hover:text-ink"
                 )}
                 strokeWidth={active ? 2.2 : 1.8}
               />
               {item.label}
-              {active ? <span className="ml-auto h-1.5 w-1.5 rounded-full bg-ink/70" /> : null}
+              {active ? <span className="ml-auto h-1.5 w-1.5 rounded-full bg-on-lime/70" /> : null}
             </Link>
           );
         })}
@@ -96,7 +97,10 @@ export function SidebarNav({ user }: { user: AppUser }) {
       <div className="mt-5 rounded-[1.4rem] border border-line bg-surface/70 p-3.5">
         <p className="truncate text-xs font-semibold text-ink">{user.name}</p>
         <p className="mt-0.5 truncate text-[10px] text-faint">{user.email}</p>
-        <SignOutButton className="mt-2 -ml-1" />
+        <div className="mt-2 flex items-center justify-between">
+          <SignOutButton className="-ml-1" />
+          <ThemeToggle className="-mr-1" />
+        </div>
       </div>
     </aside>
   );
@@ -110,7 +114,10 @@ export function MobileNav({ user }: { user: AppUser }) {
       <header className="sticky top-0 z-30 flex items-center justify-between border-b border-line/80 bg-paper/88 px-5 py-3 backdrop-blur-md lg:hidden">
         <Brand compact />
         <div className="flex items-center gap-2">
-          <span className="pill max-w-[9rem] truncate bg-surface/80">{user.name}</span>
+          <span className="pill hidden max-w-[9rem] truncate bg-surface/80 sm:inline-flex">
+            {user.name}
+          </span>
+          <ThemeToggle compact />
           <SignOutButton compact />
         </div>
       </header>
@@ -129,7 +136,7 @@ export function MobileNav({ user }: { user: AppUser }) {
                 href={item.href}
                 className={cn(
                   "flex flex-col items-center gap-1 rounded-2xl py-1.5 text-[10px] font-semibold transition",
-                  active ? "bg-lime/80 text-ink" : "text-muted hover:bg-paper-deep/60"
+                  active ? "bg-lime/80 text-on-lime" : "text-muted hover:bg-paper-deep/60"
                 )}
               >
                 <Icon className="h-[19px] w-[19px]" strokeWidth={active ? 2.2 : 1.8} />
