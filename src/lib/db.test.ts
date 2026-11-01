@@ -15,6 +15,7 @@ import {
   resetProgress,
   setDatabaseDriverForTests,
   skipPlanItem,
+  unmarkProblemKnown,
   updateSettings,
   type DatabaseDriver,
 } from "./db";
@@ -122,6 +123,11 @@ describe("database study loop", () => {
     const knownCard = afterKnown.cards.find((card) => card.slug === knownCandidate!.slug);
     expect(knownCard?.known).toBe(true);
     expect(knownCard?.state).toBe("known");
+
+    await unmarkProblemKnown(user.id, knownCandidate!.slug);
+    const afterUnmark = await getSheetData(user.id);
+    expect(afterUnmark.cards.some((card) => card.slug === knownCandidate!.slug)).toBe(false);
+    await markProblemKnown(user.id, knownCandidate!.slug);
 
     const afterKnownSlugs = new Set(
       (await getPlanItems(user.id, today)).map((item) => item.slug)

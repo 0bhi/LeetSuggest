@@ -907,6 +907,11 @@ export async function markProblemKnown(userId: string, slug: string): Promise<vo
   await ensurePlanForDate(userId, today, { fillSkipped: true });
 }
 
+export async function unmarkProblemKnown(userId: string, slug: string): Promise<void> {
+  if (!getProblem(slug)) throw new Error("Unknown problem");
+  await query("DELETE FROM cards WHERE user_id = ? AND slug = ? AND known = 1", [userId, slug]);
+}
+
 function streakFromDates(dates: Set<string>, today: string): number {
   let cursor = today;
   if (!dates.has(cursor)) cursor = addDaysToDateString(today, -1);

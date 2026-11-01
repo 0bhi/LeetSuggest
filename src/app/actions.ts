@@ -15,6 +15,7 @@ import {
   resetAll,
   resetProgress,
   skipPlanItem,
+  unmarkProblemKnown,
   updateSettings,
 } from "@/lib/db";
 import type {
@@ -74,6 +75,20 @@ export async function markKnownAction(slug: string): Promise<ActionResult> {
   const user = await requireUser();
   try {
     await markProblemKnown(user.id, slug);
+    revalidateApp();
+    return { ok: true };
+  } catch (error) {
+    return { ok: false, error: errorMessage(error) };
+  }
+}
+
+export async function unmarkKnownAction(slug: string): Promise<ActionResult> {
+  if (typeof slug !== "string" || slug.length === 0 || slug.length > 200) {
+    return { ok: false, error: "Invalid question." };
+  }
+  const user = await requireUser();
+  try {
+    await unmarkProblemKnown(user.id, slug);
     revalidateApp();
     return { ok: true };
   } catch (error) {

@@ -20,11 +20,13 @@ export function RatingBar({
   intervals,
   disabled = false,
   primary = false,
+  onRated,
 }: {
   slug: string;
   intervals: Record<Rating, string>;
   disabled?: boolean;
   primary?: boolean;
+  onRated?: (rating: Rating) => void;
 }) {
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
@@ -42,10 +44,11 @@ export function RatingBar({
           return;
         }
         setSaved(rating);
+        onRated?.(rating);
         router.refresh();
       });
     },
-    [disabled, isPending, router, slug, startTransition]
+    [disabled, isPending, onRated, router, slug, startTransition]
   );
 
   useEffect(() => {

@@ -8,16 +8,19 @@ import {
   Check,
   CircleDashed,
   ExternalLink,
+  Gauge,
   ListFilter,
   LoaderCircle,
   Lock,
   Search,
 } from "lucide-react";
-import { markKnownAction } from "@/app/actions";
+import { markKnownAction, unmarkKnownAction } from "@/app/actions";
 import { TOPICS } from "@/data/topics";
 import { dueLabel, localDateString } from "@/lib/dates";
+import { NEW_CARD_STATE, previewIntervals, type SchedulerState } from "@/lib/scheduler";
 import type { Card, Difficulty, Problem, TopicId } from "@/lib/types";
 import { cn, formatInterval } from "@/lib/utils";
+import { RatingBar } from "@/components/rating-bar";
 import { TopicLabel } from "@/components/topic-dot";
 
 type Tab = "sheet" | "extras" | "all";
@@ -45,10 +48,23 @@ const DIFFICULTY_STYLES: Record<Difficulty, string> = {
 };
 
 function statusFor(card: Card | undefined, known: boolean): StatusKey {
-  if (known || card?.known) return "known";
-  if (!card) return "new";
+  if (known) return "known";
+  if (!card || card.state === "known") return "new";
   if (card.state === "learning" || card.state === "relearning") return "learning";
   return "review";
+}
+
+function schedulerStateFor(card: Card | undefined): SchedulerState {
+  if (!card) return NEW_CARD_STATE;
+  return {
+    state: card.state,
+    dueAt: card.dueAt,
+    intervalDays: card.intervalDays,
+    easeFactor: card.easeFactor,
+    repetitions: card.repetitions,
+    lapses: card.lapses,
+    learningStep: card.learningStep,
+  };
 }
 
 export function SheetBrowser({
@@ -71,6 +87,8 @@ export function SheetBrowser({
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
   const [visibleCount, setVisibleCount] = useState(48);
   const [knownOverrides, setKnownOverrides] = useState<Set<string>>(() => new Set());
+  const [unknownOverrides, setUnknownOverrides] = useState<Set<string>>(() => new Set());
+  const [ratingSlug, setRatingSlug] = useState<string | null>(null);
   const [pendingSlug, setPendingSlug] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [isPending, startTransition] = useTransition();
@@ -81,8 +99,9 @@ export function SheetBrowser({
   const knownSlugs = useMemo(() => {
     const slugs = new Set(cards.filter((card) => card.known).map((card) => card.slug));
     for (const slug of knownOverrides) slugs.add(slug);
+    for (const slug of unknownOverrides) slugs.delete(slug);
     return slugs;
-  }, [cards, knownOverrides]);
+  }, [cards, knownOverrides, unknownOverrides]);
 
   const counts = useMemo(
     () => ({
@@ -135,12 +154,39 @@ export function SheetBrowser({
     if (knownSlugs.has(slug) || isPending) return;
     setPendingSlug(slug);
     setError(null);
+    setRatingSlug(null);
     startTransition(async () => {
       const result = await markKnownAction(slug);
       if (!result.ok) {
         setError(result.error ?? "Could not mark this question known.");
       } else {
+        setUnknownOverrides((current) => {
+          const next = new Set(current);
+          next.delete(slug);
+          return next;
+        });
         setKnownOverrides((current) => new Set(current).add(slug));
+        router.refresh();
+      }
+      setPendingSlug(null);
+    });
+  }
+
+  function handleUnknown(slug: string) {
+    if (!knownSlugs.has(slug) || isPending) return;
+    setPendingSlug(slug);
+    setError(null);
+    startTransition(async () => {
+      const result = await unmarkKnownAction(slug);
+      if (!result.ok) {
+        setError(result.error ?? "Could not undo this known mark.");
+      } else {
+        setKnownOverrides((current) => {
+          const next = new Set(current);
+          next.delete(slug);
+          return next;
+        });
+        setUnknownOverrides((current) => new Set(current).add(slug));
         router.refresh();
       }
       setPendingSlug(null);
@@ -276,102 +322,147 @@ export function SheetBrowser({
             return (
               <article
                 key={problem.slug}
-                className="group grid gap-2.5 px-3.5 py-3 transition hover:bg-paper/55 sm:grid-cols-[auto_minmax(0,1fr)_auto] sm:items-center sm:gap-3.5 sm:px-4"
+                className="group px-3.5 py-3 transition hover:bg-paper/55 sm:px-4"
               >
-                <div className="flex items-center gap-2 sm:block">
-                  {status === "known" ? (
-                    <span
-                      className="grid h-8 w-8 place-items-center rounded-full bg-lime-soft text-lime-deep"
-                      title="Known"
-                    >
-                      <Check className="h-4 w-4" strokeWidth={2.5} />
+                <div className="grid gap-2.5 sm:grid-cols-[auto_minmax(0,1fr)_auto] sm:items-center sm:gap-3.5">
+                  <div className="flex items-center gap-2 sm:block">
+                    {status === "known" ? (
+                      <button
+                        type="button"
+                        onClick={() => handleUnknown(problem.slug)}
+                        disabled={isRowPending}
+                        className="grid h-8 w-8 place-items-center rounded-full bg-lime-soft text-lime-deep transition hover:ring-2 hover:ring-lime-deep/30 disabled:opacity-50"
+                        title="Known — click to undo"
+                        aria-label={`Undo known for ${problem.title}`}
+                      >
+                        {isRowPending ? (
+                          <LoaderCircle className="h-3.5 w-3.5 animate-spin" />
+                        ) : (
+                          <Check className="h-4 w-4" strokeWidth={2.5} />
+                        )}
+                      </button>
+                    ) : (
+                      <button
+                        type="button"
+                        onClick={() => handleKnown(problem.slug)}
+                        disabled={isRowPending}
+                        className="grid h-8 w-8 place-items-center rounded-full border border-line bg-surface text-faint transition hover:border-lime-deep hover:bg-lime-soft hover:text-lime-deep disabled:opacity-50"
+                        title="Mark as known"
+                        aria-label={`Mark ${problem.title} as known`}
+                      >
+                        {isRowPending ? (
+                          <LoaderCircle className="h-3.5 w-3.5 animate-spin" />
+                        ) : (
+                          <CircleDashed className="h-4 w-4" />
+                        )}
+                      </button>
+                    )}
+                    <span className="text-[10px] font-semibold uppercase tracking-[0.1em] text-faint sm:hidden">
+                      {isSheet ? `Sheet #${problem.sheetOrder}` : "Company extra"}
                     </span>
-                  ) : (
-                    <button
-                      type="button"
-                      onClick={() => handleKnown(problem.slug)}
-                      disabled={isRowPending}
-                      className="grid h-8 w-8 place-items-center rounded-full border border-line bg-surface text-faint transition hover:border-lime-deep hover:bg-lime-soft hover:text-lime-deep disabled:opacity-50"
-                      title="Mark as known"
-                      aria-label={`Mark ${problem.title} as known`}
-                    >
-                      {isRowPending ? (
-                        <LoaderCircle className="h-3.5 w-3.5 animate-spin" />
-                      ) : (
-                        <CircleDashed className="h-4 w-4" />
-                      )}
-                    </button>
-                  )}
-                  <span className="text-[10px] font-semibold uppercase tracking-[0.1em] text-faint sm:hidden">
-                    {isSheet ? `Sheet #${problem.sheetOrder}` : "Company extra"}
-                  </span>
+                  </div>
+
+                  <div className="min-w-0">
+                    <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
+                      <Link
+                        href={problem.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="truncate text-[13px] font-semibold text-ink decoration-lime-deep/40 decoration-2 underline-offset-4 hover:underline sm:text-sm"
+                      >
+                        {problem.title}
+                      </Link>
+                      {problem.isPremium ? (
+                        <span className="inline-flex items-center gap-0.5 text-[9px] font-bold uppercase tracking-[0.1em] text-amber">
+                          <Lock className="h-2.5 w-2.5" /> Premium
+                        </span>
+                      ) : null}
+                    </div>
+                    <div className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-[10px] font-medium text-muted">
+                      <TopicLabel topic={problem.topic} />
+                      <span className="text-line-strong">·</span>
+                      <span className={DIFFICULTY_STYLES[problem.difficulty]}>{problem.difficulty}</span>
+                      {problem.pattern ? (
+                        <>
+                          <span className="text-line-strong">·</span>
+                          <span className="truncate">{problem.pattern}</span>
+                        </>
+                      ) : null}
+                      {problem.source === "company" && problem.companies.length > 0 ? (
+                        <>
+                          <span className="text-line-strong">·</span>
+                          <span className="truncate">{problem.companies.slice(0, 3).join(" / ")}</span>
+                        </>
+                      ) : null}
+                    </div>
+                  </div>
+
+                  <div className="flex items-center justify-between gap-2 sm:justify-end">
+                    <div className="flex items-center gap-2">
+                      <span
+                        className={cn(
+                          "rounded-full px-2 py-1 text-[9px] font-bold uppercase tracking-[0.11em]",
+                          STATUS_STYLES[status]
+                        )}
+                      >
+                        {STATUS_LABELS[status]}
+                      </span>
+                      {card && status !== "known" ? (
+                        <span className="hidden text-[10px] tabular-nums text-faint md:inline">
+                          {status === "review" && card.dueAt
+                            ? dueLabel(card.dueAt, today, timezone)
+                            : status === "learning"
+                              ? "Same-day step"
+                              : `Every ${formatInterval(card.intervalDays)}`}
+                        </span>
+                      ) : null}
+                    </div>
+                    <div className="flex items-center gap-0.5">
+                      {status !== "known" ? (
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setRatingSlug((current) =>
+                              current === problem.slug ? null : problem.slug
+                            )
+                          }
+                          className={cn(
+                            "inline-flex h-7 items-center gap-1 rounded-full px-2 text-[10px] font-semibold text-faint transition hover:bg-paper-deep hover:text-ink",
+                            ratingSlug === problem.slug && "bg-paper-deep text-ink"
+                          )}
+                          title="Rate this question"
+                          aria-label={`Rate ${problem.title}`}
+                          aria-expanded={ratingSlug === problem.slug}
+                        >
+                          <Gauge className="h-3.5 w-3.5" />
+                          <span className="hidden md:inline">Rate</span>
+                        </button>
+                      ) : null}
+                      <Link
+                        href={problem.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="grid h-7 w-7 place-items-center rounded-full text-faint transition hover:bg-paper-deep hover:text-ink"
+                        aria-label={`Open ${problem.title} on LeetCode`}
+                      >
+                        <ExternalLink className="h-3.5 w-3.5" />
+                      </Link>
+                    </div>
+                  </div>
                 </div>
 
-                <div className="min-w-0">
-                  <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
-                    <Link
-                      href={problem.url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="truncate text-[13px] font-semibold text-ink decoration-lime-deep/40 decoration-2 underline-offset-4 hover:underline sm:text-sm"
-                    >
-                      {problem.title}
-                    </Link>
-                    {problem.isPremium ? (
-                      <span className="inline-flex items-center gap-0.5 text-[9px] font-bold uppercase tracking-[0.1em] text-amber">
-                        <Lock className="h-2.5 w-2.5" /> Premium
-                      </span>
-                    ) : null}
+                {ratingSlug === problem.slug && status !== "known" ? (
+                  <div className="mt-3 rounded-xl border border-line/70 bg-paper/60 p-3 sm:ml-[3rem]">
+                    <p className="mb-2 text-[10px] font-bold uppercase tracking-[0.13em] text-faint">
+                      Rate this question
+                    </p>
+                    <RatingBar
+                      slug={problem.slug}
+                      intervals={previewIntervals(schedulerStateFor(card))}
+                      onRated={() => setRatingSlug(null)}
+                    />
                   </div>
-                  <div className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-[10px] font-medium text-muted">
-                    <TopicLabel topic={problem.topic} />
-                    <span className="text-line-strong">·</span>
-                    <span className={DIFFICULTY_STYLES[problem.difficulty]}>{problem.difficulty}</span>
-                    {problem.pattern ? (
-                      <>
-                        <span className="text-line-strong">·</span>
-                        <span className="truncate">{problem.pattern}</span>
-                      </>
-                    ) : null}
-                    {problem.source === "company" && problem.companies.length > 0 ? (
-                      <>
-                        <span className="text-line-strong">·</span>
-                        <span className="truncate">{problem.companies.slice(0, 3).join(" / ")}</span>
-                      </>
-                    ) : null}
-                  </div>
-                </div>
-
-                <div className="flex items-center justify-between gap-2 sm:justify-end">
-                  <div className="flex items-center gap-2">
-                    <span
-                      className={cn(
-                        "rounded-full px-2 py-1 text-[9px] font-bold uppercase tracking-[0.11em]",
-                        STATUS_STYLES[status]
-                      )}
-                    >
-                      {STATUS_LABELS[status]}
-                    </span>
-                    {card && status !== "known" ? (
-                      <span className="hidden text-[10px] tabular-nums text-faint md:inline">
-                        {status === "review" && card.dueAt
-                          ? dueLabel(card.dueAt, today, timezone)
-                          : status === "learning"
-                            ? "Same-day step"
-                            : `Every ${formatInterval(card.intervalDays)}`}
-                      </span>
-                    ) : null}
-                  </div>
-                  <Link
-                    href={problem.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="grid h-7 w-7 place-items-center rounded-full text-faint transition hover:bg-paper-deep hover:text-ink"
-                    aria-label={`Open ${problem.title} on LeetCode`}
-                  >
-                    <ExternalLink className="h-3.5 w-3.5" />
-                  </Link>
-                </div>
+                ) : null}
               </article>
             );
           })
